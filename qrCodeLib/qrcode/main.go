@@ -9,7 +9,7 @@ import (
 	"math/rand"
 	"os"
 
-	qrcode "qrcode/qrCodeLib"
+	qrcode "QRcodeLib/qrCodeLib"
 	"strconv"
 	"time"
 )

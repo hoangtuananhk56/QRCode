@@ -46,9 +46,9 @@ import (
 	"log"
 	"os"
 
-	reedsolomon "qrcode/qrCodeLib/reedsolomon"
+	reedsolomon "QRcodeLib/qrCodeLib/reedsolomon"
 
-	bitset "qrcode/qrCodeLib/bitset"
+	bitset "QRcodeLib/qrCodeLib/bitset"
 )
 
 // Encode a QR Code and return a raw PNG image.

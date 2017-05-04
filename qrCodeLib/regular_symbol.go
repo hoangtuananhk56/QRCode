@@ -4,7 +4,7 @@
 package qrcode
 
 import (
-	bitset "qrcode/qrCodeLib/bitset"
+	bitset "QRcodeLib/qrCodeLib/bitset"
 )
 
 type regularSymbol struct {

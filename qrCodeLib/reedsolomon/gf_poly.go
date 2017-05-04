@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	bitset "qrcode/qrCodeLib/bitset"
+	bitset "QRcodeLib/qrCodeLib/bitset"
 )
 
 // gfPoly is a polynomial over GF(2^8).

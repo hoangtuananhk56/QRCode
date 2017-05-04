@@ -6,7 +6,7 @@ package qrcode
 import (
 	"log"
 
-	bitset "qrcode/qrCodeLib/bitset"
+	bitset "QRcodeLib/qrCodeLib/bitset"
 )
 
 // Error detection/recovery capacity.

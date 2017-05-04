@@ -7,7 +7,7 @@ import (
 	"errors"
 	"log"
 
-	bitset "qrcode/qrCodeLib/bitset"
+	bitset "QRcodeLib/qrCodeLib/bitset"
 )
 
 // Data encoding.
